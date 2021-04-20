@@ -1,2 +1,0 @@
-# RubosBarton.github.io
-ejemplos
